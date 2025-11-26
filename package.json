@@ -17,5 +17,8 @@
     "url": "https://github.com/louisdeco/basic-informational-site/issues"
   },
   "homepage": "https://github.com/louisdeco/basic-informational-site#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
